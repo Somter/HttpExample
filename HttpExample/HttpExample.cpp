@@ -193,7 +193,7 @@ int main()
     SetConsoleTextAttribute(hConsole, 10);  
     cout << coords << endl; 
 
-    SetConsoleTextAttribute(hConsole, 14);  
+    SetConsoleTextAttribute(hConsole, 14);   
     cout << "Temperature: ";    
     SetConsoleTextAttribute(hConsole, 10);  
     cout << temp << endl;   
